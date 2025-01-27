@@ -1,0 +1,10 @@
+Blurry: The image is out of focus or motion blurred.
+Subject Covered: The subject is partially or fully obscured (e.g., by their hand, hair, or objects).
+Color Off: The image has incorrect color balance, such as a strong tint or unnatural tones.
+Overexposed: The image is too bright, with washed-out highlights.
+Underexposed: The image is too dark, lacking detail in shadows.
+Low Resolution: The image is pixelated or has poor quality.
+Cluttered Background: The background is distracting or has too many elements.
+Red Eyes: The subject's eyes appear red due to camera flash.
+Off-Centered Subject: The subject is not aligned properly within the frame.
+Obstructive Shadows: Shadows fall over the subject, obscuring important features.

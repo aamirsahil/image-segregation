@@ -1,0 +1,10 @@
+Well Lit: The image has proper lighting, avoiding shadows or dark spots.
+Eyes Open: The subject's eyes are fully visible and open.
+Image Centered: The subject is centered within the frame.
+Sharp Focus: The image is clear and in focus.
+Natural Colors: Colors appear realistic and not overly saturated or dull.
+No Obstructions: The subject is not obstructed by objects or other people.
+High Resolution: The image has sufficient resolution (e.g., above a threshold like 720p).
+Uniform Background: The background is simple and not cluttered.
+Smiling Subject: The subject has a pleasant facial expression, such as a smile.
+Proper Framing: The image has a balanced composition without cropping essential parts of the subject.
