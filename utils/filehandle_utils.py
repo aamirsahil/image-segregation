@@ -1,4 +1,6 @@
-def getFileNames(input_path : str) -> list[str]:
+import glob
+
+def getFilePaths(input_path : str) -> list[str]:
     """
     param : 
     input_path -> location of the unsorted image files
@@ -10,6 +12,8 @@ def getFileNames(input_path : str) -> list[str]:
     return : 
     file_names -> list of image files names in the input path 
     """
-    file_names = []
+    file_names = glob.glob(input_path)
+    file_names.sort()
     
+
     return file_names
