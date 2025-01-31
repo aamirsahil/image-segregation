@@ -7,7 +7,7 @@ def main():
     # load files
     input_path = "./input/test/*"
     file_paths = getFilePaths(input_path)
-    output_path = "./ouput/"
+    output_path = "./output/"
     model_path = "./model/"
     model_url = 'dandelin/vilt-b32-finetuned-vqa'
 
@@ -28,7 +28,7 @@ def main():
         #     final_score = 3
 
         # Define a question
-        question = "is the picture blurry, answer yes or no?"
+        question = "is the picture motion blurred, answer yes or no?"
 
         # Preprocess the image and question
         encoding = processor(image, question, return_tensors="pt")
@@ -42,7 +42,7 @@ def main():
         answer = model.config.id2label[predicted_answer_idx]
         
         print(f"Image Id: {filename.split('_')[0]}")
-        print(f"Image Label: {filename.split('_')[-1].split['.'][0]}")
+        print(f"Image Label: {filename.split('_')[-1].split('.')[0]}")
         print(f"Question: {question}")
         print(f"Answer: {answer}")
 

@@ -8,3 +8,23 @@ High Resolution: The image has sufficient resolution (e.g., above a threshold li
 Uniform Background: The background is simple and not cluttered.
 Smiling Subject: The subject has a pleasant facial expression, such as a smile.
 Proper Framing: The image has a balanced composition without cropping essential parts of the subject.
+Sharp Focus – Clear, crisp details with no blur.
+Rule of Thirds – Subject aligned with gridlines for balanced composition.
+Vibrant Colors – Rich, saturated hues that pop naturally.
+Golden Hour Lighting – Warm, soft light during sunrise/sunset.
+Strong Focal Point – A clear subject that draws attention.
+Balanced Exposure – No overexposed highlights or underexposed shadows.
+Depth of Field – Background blur (bokeh) that emphasizes the subject.
+Leading Lines – Natural lines (roads, rivers) guiding the eye to the subject.
+Symmetry/Patterns – Visually pleasing repetition or mirroring.
+Dynamic Range – Details preserved in both bright and dark areas.
+Candid Moments – Authentic, unposed emotions or actions.
+Foreground Interest – Layers adding depth (e.g., rocks in front of a mountain).
+Natural Framing – Objects (arches, trees) framing the subject.
+Minimalist Composition – Clean, uncluttered backgrounds.
+Storytelling – The image conveys a narrative or cultural context.
+Texture Detail – Visible textures (sand, bark, fabric).
+Golden Ratio – Harmonious spiral/composition guiding the eye.
+Reflections – Water, glass, or mirror reflections adding intrigue.
+Timelessness – Avoids trendy filters; feels classic.
+Emotional Impact – Evokes joy, awe, or curiosity.

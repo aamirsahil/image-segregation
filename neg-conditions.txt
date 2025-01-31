@@ -1,4 +1,3 @@
-Blurry: The image is out of focus or motion blurred.
 Subject Covered: The subject is partially or fully obscured (e.g., by their hand, hair, or objects).
 Color Off: The image has incorrect color balance, such as a strong tint or unnatural tones.
 Overexposed: The image is too bright, with washed-out highlights.
@@ -8,3 +7,23 @@ Cluttered Background: The background is distracting or has too many elements.
 Red Eyes: The subject's eyes appear red due to camera flash.
 Off-Centered Subject: The subject is not aligned properly within the frame.
 Obstructive Shadows: Shadows fall over the subject, obscuring important features.
+Blurry/Out of Focus – Unintentional softness or motion blur.
+Overexposed Highlights – Washed-out bright areas (e.g., blown-out skies).
+Underexposed Shadows – Crushed black areas with no detail.
+Cluttered Background – Distracting elements competing with the subject.
+Poor Composition – Subject centered awkwardly or cut off.
+Harsh Shadows – Unflattering dark patches from midday sun.
+Unnatural Colors – Oversaturated or skewed hues (e.g., neon-green grass).
+Noise/Grain – Pixelation in low-light shots.
+Lens Flare Issues – Unwanted glare or artifacts from direct light.
+Awkward Cropping – Limbs or objects partially cut off.
+Flat Lighting – No contrast or depth (e.g., cloudy-day monotony).
+Distorted Perspective – Wide-angle warping or unnatural proportions.
+Unbalanced Exposure – Bright foreground with dark background (or vice versa).
+Color Cast – Unwanted tint (e.g., overly blue or yellow tones).
+Motion Blur – Moving subjects (people, cars) appearing smeared.
+Backlit Subject – Silhouetted faces due to strong rear light.
+Overprocessed Edits – Heavy filters, HDR halos, or unrealistic effects.
+Stiff Posing – Forced, unnatural poses.
+Distracting Elements – Trash, photobombers, or signage diverting focus.
+Lack of Story – No clear subject or emotional connection.
